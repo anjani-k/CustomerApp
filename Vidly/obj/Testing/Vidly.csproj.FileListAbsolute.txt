@@ -73,7 +73,6 @@ C:\Users\anjan\source\repos\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
 C:\Users\anjan\source\repos\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\anjan\source\repos\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\anjan\source\repos\Vidly\Vidly\bin\Microsoft.AI.Web.xml
-C:\Users\anjan\source\repos\Vidly\Vidly\obj\Testing\Vidly.csprojResolveAssemblyReference.cache
 C:\Users\anjan\source\repos\Vidly\Vidly\obj\Testing\Vidly.Migrations.InitialModel.resources
 C:\Users\anjan\source\repos\Vidly\Vidly\obj\Testing\Vidly.Migrations.AddIsSubscribedToCustomer.resources
 C:\Users\anjan\source\repos\Vidly\Vidly\obj\Testing\Vidly.Migrations.AddMembershipType.resources
@@ -91,3 +90,5 @@ C:\Users\anjan\source\repos\Vidly\Vidly\obj\Testing\Vidly.csproj.GenerateResourc
 C:\Users\anjan\source\repos\Vidly\Vidly\obj\Testing\Vidly.csproj.CoreCompileInputs.cache
 C:\Users\anjan\source\repos\Vidly\Vidly\obj\Testing\Vidly.dll
 C:\Users\anjan\source\repos\Vidly\Vidly\obj\Testing\Vidly.pdb
+C:\Users\anjan\source\repos\Vidly\Vidly\obj\Testing\Vidly.csprojAssemblyReference.cache
+C:\Users\anjan\source\repos\Vidly\Vidly\obj\Testing\Vidly.csproj.CopyComplete
